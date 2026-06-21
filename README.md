@@ -1,2 +1,14 @@
 # wwwwin-2026worldcup-guide
-HTML page archive and documentation
+
+自动发布文件目录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
